@@ -6,6 +6,7 @@ node_modules
 /css/style.css
 /css/marijn.css
 /css/sara.css
+css/*
 
 /public/css
 
