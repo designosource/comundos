@@ -149,26 +149,6 @@ footer{
 
 @media only screen
 and (min-width : 768px) {
-  .video-wrapper{
-    ul{
-      li {
-        width: 50%;
-        .info_video{
-          width: 70%;
-          p{
-          }
-          a{
-            font-size: 1.2rem;
-          }
-          .tags{
-            a{
-              font-size: 12px;
-            }
-          }
-        }
-      }
-    }
-  }
   .video_content_box {
     iframe {
       width: 100%;
