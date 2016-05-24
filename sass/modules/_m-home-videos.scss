@@ -1,3 +1,83 @@
-body {
-  background-color: red;
+.recent-videos-container-container h2 {
+  text-transform: uppercase;
+  font-family: oswaldbold;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.view-recent-videos.view-id-recent_videos.recent-videos-container {
+  text-align: center;
+
+  .info {
+    width: 235px;
+    margin: 0 auto;
+    text-align: left;
+    padding-right: 13px;
+  }
+}
+
+div {
+  &#block-views-recent-videos-block {
+    margin-bottom: 30px;
+  }
+
+  &#block-views-recent-videos-block-1 {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (min-width: 739px) {
+  .recent-videos-container-container h2 {
+    text-align: left;
+    padding-left: 5px;
+  }
+
+  .view-recent-videos.view-id-recent_videos.recent-videos-container {
+    .recent-videos-row {
+      width: 25%;
+      float: left;
+    }
+
+    .info {
+      width: 100%;
+      padding-left: 11px;
+    }
+
+    .view-content, .links {
+      display: flex;
+    }
+
+    span.olanguage {
+      float: left;
+      margin-right: 11px;
+    }
+  }
+
+  div {
+    &#block-views-recent-videos-block {
+      margin-bottom: 70px;
+      margin-top: 58px;
+    }
+
+    &#block-views-recent-videos-block-1 {
+      margin-top: 70px;
+    }
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .view-recent-videos.view-id-recent_videos.recent-videos-container .info {
+    padding-left: 10px;
+  }
+}
+
+@media only screen and (min-width: 1201px) {
+  .view-recent-videos.view-id-recent_videos.recent-videos-container .info {
+    padding-left: 30px;
+  }
+
+  .recent-videos-container-container h2 {
+    text-align: left;
+    padding-left: 29px;
+  }
 }
