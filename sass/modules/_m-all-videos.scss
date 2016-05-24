@@ -1,0 +1,233 @@
+/*******-Videos-*******/
+.video-form{
+  input#edit-submit-all-videos {
+    background-color: #f4473a;
+    color: white;
+    float: right;
+    border-radius: 0;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+    background-image: none;
+    border: 1px solid white;
+}
+  input#edit-submit-all-videos:hover{
+    background-color: white;
+    color: #f4473a;
+    border: 1px solid #f4473a;
+}
+  .views-exposed-widget.views-submit-button{
+    float: right;
+}
+  .views-exposed-widgets{
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+  label{
+    float: left;
+    width: 114px;
+}
+  .views-exposed-widget{
+    width: 320px;
+}
+  .views-widget, .form-item{
+    .description{
+      display: none;
+  }
+    select{
+      width: 180px;
+  }
+    .views-submit-button{
+      width: 100%;
+      height: 40px;
+      float: right;
+  }
+}
+  #edit-submit-all-videos{
+    margin-top: 0;
+  }
+}
+.video-wrapper{
+  ul{
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+    margin: 50px 0px 0px 0px;
+    li {
+      width: 100%;
+      float: left;
+      img{
+        float: left;
+        width: 100px;
+    }
+      .info_video{
+        position: relative;
+        height: 85px;
+        width: 65%;
+        float: left;
+        margin-bottom: 10px;
+        padding-left: 16px;
+        p{
+          white-space: nowrap;
+          overflow: hidden;
+          font-family: 'open_sansregular', sans-serif;
+          text-overflow: ellipsis;
+          margin-bottom: 0;
+          font-size: 12px;
+      }
+        .short_description{
+          height: 24px;
+          line-height:20px; /* Height / no. of lines to display */
+          overflow:hidden;
+          white-space: normal;
+          text-overflow: ellipsis;
+      }
+        a{
+          color: black;
+          font-family: 'oswaldlight';
+          font-size: 16px;
+
+      }
+        .tags{
+          position: absolute;
+          bottom: 10px;
+          left: 5px;
+          a{
+            background-color: #f4473a;
+            border: 1px solid white;
+            padding: 0.25rem 0.5rem;
+            font-family: 'oswaldlight';
+            margin: 5px;
+            color: white;
+            font-size: 1.2rem;
+        }
+          a:hover{
+            background-color: white;
+            border: 1px solid #f4473a;
+            color: #f4473a;
+        }
+      }
+    }
+  }
+}
+}
+@media only screen
+and (min-width : 320px) {
+  .video-wrapper {
+    ul {
+
+      li {
+
+        img {
+          width: 100px;
+        }
+        .info_video {
+          p {
+          }
+          .short_description {
+            height: 24px;
+          }
+          a {
+            font-size: 16px;
+          }
+          .tags {
+
+            a {
+              font-size: 10px;
+            }
+            a:hover {
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen
+and (min-width : 768px) {
+  .video-wrapper{
+    ul{
+      li {
+        width: 50%;
+        img{
+        }
+        .info_video{
+          width: 70%;
+          p{
+          }
+          a{
+            font-size: 1.2rem;
+          }
+          .tags{
+            a{
+              font-size: 12px;
+            }
+            a:hover{
+            }
+          }
+        }
+      }
+    }
+  }
+  .video-form{
+    .views-exposed-widgets{
+      width: 640px;
+    }
+  }
+}
+
+@media only screen
+and (min-width : 1024px) {
+  .video-wrapper{
+    ul{
+      li {
+        margin-bottom: 20px;
+        img{
+          width: 200px;
+        }
+        .info_video{
+          height: 150px;
+          width: 57%;
+          a{
+          }
+          .short_description{
+            height: 79px;
+          }
+          .tags{
+            a{
+
+            }
+            a:hover{
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .video-form{
+
+    .views-exposed-widgets{
+      width: 100%;
+    }
+    label{
+      width: auto;
+      margin-right: 20px;
+    }
+    .views-exposed-widget{
+      width: 340px;
+    }
+    .views-exposed-widget.views-submit-button{
+      width: 100px;
+    }
+    .views-widget, .form-item{
+
+      select{
+        width: 120px;
+        float: left;
+      }
+    }
+  }
+}
