@@ -37,8 +37,8 @@
       <file leaf-file-name="_m-all-videos.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5692884">
-              <caret line="180" column="13" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="161" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,8 +68,10 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.142857">
-              <caret line="493" column="2" selection-start-line="493" selection-start-column="2" selection-end-line="495" selection-end-column="3" />
-              <folding />
+              <caret line="489" column="2" selection-start-line="493" selection-start-column="2" selection-end-line="495" selection-end-column="3" />
+              <folding>
+                <marker date="1464109950728" expanded="true" signature="14849:14855" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -584,15 +586,17 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.142857">
-          <caret line="493" column="2" selection-start-line="493" selection-start-column="2" selection-end-line="495" selection-end-column="3" />
-          <folding />
+          <caret line="489" column="2" selection-start-line="493" selection-start-column="2" selection-end-line="495" selection-end-column="3" />
+          <folding>
+            <marker date="1464109950728" expanded="true" signature="14849:14855" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5692884">
-          <caret line="180" column="13" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="161" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
           <folding />
         </state>
       </provider>
