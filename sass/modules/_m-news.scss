@@ -1,0 +1,65 @@
+.page-news {
+
+  .news-container {
+    text-align: center;
+  }
+
+  .views-field-title {
+    font-size: 21px;
+    padding-bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 739px) {
+  .page-news {
+
+    .news-container {
+      text-align: left;
+    }
+
+    .views-field-title {
+      font-size: 21px;
+      padding-bottom: 20px;
+      margin-top: 8px;
+    }
+
+    .views-field-field-image {
+      float: left;
+      padding-right: 36px;
+      margin-bottom: 8px;
+      padding-top: 4px;
+    }
+  }
+}
+
+@media only screen and (min-width: 992px) {
+
+  .mainmenu {
+    float: right;
+    width: 69%;
+  }
+
+  #logo {
+    width: 300px;
+    float: left;
+  }
+
+  #main-menu {
+    padding: 0px 0px;
+    margin: 22px 0px 15px;
+    height: 45px;
+    border-bottom: none;
+    float: right !important;
+  }
+
+  nav#navigation {
+    float: right;
+  }
+
+  .header#masthead div#logo img {
+    margin-bottom: -12px;
+    margin-top: -3px;
+  }
+}
+
+/*# sourceMappingURL=comundos.css.map */
