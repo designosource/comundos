@@ -4,7 +4,6 @@
     <list default="true" id="1201466c-b9bb-4d21-b6e3-fd7224a968e6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_m-all-videos.scss" afterPath="$PROJECT_DIR$/sass/modules/_m-all-videos.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_m-main-video-page.scss" afterPath="$PROJECT_DIR$/sass/modules/_m-main-video-page.scss" />
     </list>
     <ignored path="comundos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="_m-all-videos.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6853933">
-              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.85393256">
+              <caret line="159" column="30" selection-start-line="159" selection-start-column="30" selection-end-line="159" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -619,8 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6853933">
-          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.85393256">
+          <caret line="159" column="30" selection-start-line="159" selection-start-column="30" selection-end-line="159" selection-end-column="30" />
           <folding />
         </state>
       </provider>
