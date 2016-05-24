@@ -37,8 +37,8 @@
       <file leaf-file-name="_m-all-videos.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7977528">
-              <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.011235955">
+              <caret line="176" column="25" selection-start-line="176" selection-start-column="25" selection-end-line="176" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -68,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.142857">
-              <caret line="490" column="2" selection-start-line="490" selection-start-column="2" selection-end-line="490" selection-end-column="2" />
+              <caret line="492" column="2" selection-start-line="492" selection-start-column="2" selection-end-line="492" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -584,15 +584,15 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.142857">
-          <caret line="490" column="2" selection-start-line="490" selection-start-column="2" selection-end-line="490" selection-end-column="2" />
+          <caret line="492" column="2" selection-start-line="492" selection-start-column="2" selection-end-line="492" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7977528">
-          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.011235955">
+          <caret line="176" column="25" selection-start-line="176" selection-start-column="25" selection-end-line="176" selection-end-column="25" />
           <folding />
         </state>
       </provider>
