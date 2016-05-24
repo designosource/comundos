@@ -6,6 +6,7 @@ stylesheets[all][] = font/stylesheet.css
 stylesheets[all][] = css/marijn.css
 stylesheets[all][] = css/comundos.css
 stylesheets[all][] = css/main.css
+stylesheets[all][] = css/sara.css
 regions[sidebar_first]  = First Sidebar
 regions[header]         = Header
 regions[preface_first]  = Preface First

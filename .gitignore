@@ -4,7 +4,9 @@ node_modules
 /.sass-cache
 
 /css/style.css
-/css/style.css
+/css/marijn.css
+/css/sara.css
+
 /public/css
 
 -
