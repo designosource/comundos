@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1201466c-b9bb-4d21-b6e3-fd7224a968e6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_m-all-videos.scss" afterPath="$PROJECT_DIR$/sass/modules/_m-all-videos.scss" />
     </list>
     <ignored path="comundos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="_m-all-videos.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2247191">
-              <caret line="174" column="34" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.29213482">
+              <caret line="170" column="13" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -67,8 +66,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1785715">
-              <caret line="452" column="15" selection-start-line="452" selection-start-column="2" selection-end-line="452" selection-end-column="15" />
+            <state vertical-scroll-proportion="-4.142857">
+              <caret line="493" column="2" selection-start-line="493" selection-start-column="2" selection-end-line="495" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -149,8 +148,8 @@
         <option value="$PROJECT_DIR$/sass/modules/_m-home-videos.scss" />
         <option value="$PROJECT_DIR$/sass/main.scss" />
         <option value="$PROJECT_DIR$/comundos.info" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/sass/modules/_m-main-video-page.scss" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/sass/modules/_m-all-videos.scss" />
       </list>
     </option>
@@ -583,16 +582,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1785715">
-          <caret line="452" column="15" selection-start-line="452" selection-start-column="2" selection-end-line="452" selection-end-column="15" />
+        <state vertical-scroll-proportion="-4.142857">
+          <caret line="493" column="2" selection-start-line="493" selection-start-column="2" selection-end-line="495" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/modules/_m-all-videos.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2247191">
-          <caret line="174" column="34" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.29213482">
+          <caret line="170" column="13" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="13" />
           <folding />
         </state>
       </provider>
