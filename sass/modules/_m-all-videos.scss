@@ -57,6 +57,8 @@
     li {
       width: 100%;
       float: left;
+      margin-bottom: 1rem;
+
       img{
         float: left;
         width: 100px;
@@ -118,6 +120,7 @@ and (min-width : 320px) {
     ul {
 
       li {
+        margin-bottom: 1rem;
 
         img {
           width: 100px;
@@ -183,7 +186,7 @@ and (min-width : 1024px) {
   .video-wrapper{
     ul{
       li {
-        margin-bottom: 20px;
+        margin-bottom: 4rem;
         img{
           width: 200px;
         }
