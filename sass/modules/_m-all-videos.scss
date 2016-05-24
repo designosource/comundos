@@ -143,14 +143,12 @@
           a {
             font-size: 16px;
           }
-          .tags {
 
-            a {
-              font-size: 10px;
-            }
-            a:hover {
-            }
+          .tags a {
+            font-size: 14px;
+            padding: 0.7rem 0.75rem 0.5rem 0.75rem;
           }
+
         }
       }
     }
@@ -174,6 +172,11 @@
           .tags {
             position: absolute;
             left: 5px;
+          }
+
+          .tags a {
+            font-size: 12px;
+            padding: 0.25rem 0.5rem;
           }
         }
       }
