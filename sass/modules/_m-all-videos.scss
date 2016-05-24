@@ -169,14 +169,17 @@
           a {
             font-size: 1.2rem;
           }
+
           .tags {
             position: absolute;
             left: 5px;
+            bottom: 0px;
           }
 
           .tags a {
-            font-size: 12px;
+            font-size: 15px;
             padding: 0.25rem 0.5rem;
+            padding-top: 6px;
           }
         }
       }
