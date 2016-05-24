@@ -172,7 +172,10 @@
             font-size: 1.2rem;
           }
           .tags {
-            background-color: red;
+            position: absolute;
+            bottom: 0px;
+            left: 5px;
+
             a {
               font-size: 12px;
             }
@@ -209,13 +212,6 @@
         }
       }
     }
-
-    .tags {
-      position: absolute;
-      bottom: 0px;
-      left: 5px;
-    }
-
   }
 }
 
