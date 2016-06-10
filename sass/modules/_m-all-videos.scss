@@ -55,6 +55,14 @@
   #edit-submit-all-videos {
     margin-top: 0;
   }
+  #edit-language-1{
+    option[value="All"],
+    option[value="***DEFAULT_LANGUAGE***"],
+    option[value="und"]{
+      display: none;
+    }
+  }
+
 }
 
 .video-wrapper {
