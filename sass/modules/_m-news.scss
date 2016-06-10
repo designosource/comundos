@@ -25,9 +25,14 @@
 
     .views-field-field-image {
       float: left;
-      padding-right: 36px;
       margin-bottom: 8px;
       padding-top: 4px;
+
+      .field-content {
+        image {
+          padding-right: 36px;
+        }
+      }
     }
   }
 }
